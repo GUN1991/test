@@ -12,3 +12,11 @@ class test
     public $i = 'hhhh';
     public $c = 'hhhh';
 }
+
+
+class testop
+{
+
+    public $i = 'hhhh';
+    public $c = 'hhhh';
+}
